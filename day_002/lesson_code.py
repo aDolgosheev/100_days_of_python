@@ -1,1 +1,1 @@
-print(len("12354"))
+print("Hello"[4])
